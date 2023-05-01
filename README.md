@@ -16,3 +16,6 @@ git checkout <branchName>
 ##shortcut: to create and go to the branch
 go to main branch
 git checkout -b branch <branchName> 
+
+git fetch
+
