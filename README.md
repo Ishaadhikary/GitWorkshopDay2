@@ -1,3 +1,8 @@
 Day 2
+Task:
+create of new repo
+add/commit/push
+
 Git Branching:
-git branch "isha/feature_1"
+a pointer to a snapshot of changes
+git branch "isha/feature_1" #creation of branch
